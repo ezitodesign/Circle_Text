@@ -2,4 +2,7 @@
 
 body {
     background: lightgray;
+    font-family: 'Melodrama-Semibold', sans-serif;
+    font-size: 32px;
+    color: rgb(173, 112, 42);
 }
