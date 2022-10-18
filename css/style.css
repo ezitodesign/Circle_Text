@@ -1,8 +1,27 @@
 /* My Styles */
-
+@import url(melodrama.css);
 body {
-    background: lightgray;
-    font-family: 'Melodrama-Semibold', sans-serif;
-    font-size: 32px;
+    background: rgb(235, 225, 168);
+
+}
+h1 {
+    font-family: 'Melodrama-Variable';
+    font-size: 48px;
     color: rgb(173, 112, 42);
+    font-kerning: normal;
+}
+img{
+    width: 250px;
+    height: 250px;
+    display: flex;
+    align-items: center; 
+    margin: 0 auto;
+    border: 5px solid #fff;
+}
+
+p {
+    font-family: 'Melodrama-Medium';
+    font-size: 32px;
+    color: rgb(97, 117, 117);
+    font-kerning: normal;
 }
